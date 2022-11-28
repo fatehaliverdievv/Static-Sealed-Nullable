@@ -1,0 +1,15 @@
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\bin\Debug\net6.0\staticandsealedandnullabletask.exe
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\bin\Debug\net6.0\staticandsealedandnullabletask.deps.json
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\bin\Debug\net6.0\staticandsealedandnullabletask.runtimeconfig.json
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\bin\Debug\net6.0\staticandsealedandnullabletask.dll
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\bin\Debug\net6.0\staticandsealedandnullabletask.pdb
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.csproj.AssemblyReference.cache
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.AssemblyInfoInputs.cache
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.AssemblyInfo.cs
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.csproj.CoreCompileInputs.cache
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.dll
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\refint\staticandsealedandnullabletask.dll
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.pdb
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\staticandsealedandnullabletask.genruntimeconfig.cache
+C:\Users\Fateh\Desktop\C#\staticandsealedandnullabletask\staticandsealedandnullabletask\obj\Debug\net6.0\ref\staticandsealedandnullabletask.dll
